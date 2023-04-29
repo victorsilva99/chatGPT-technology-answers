@@ -7,7 +7,6 @@ Nesse repositório estou guardando arquivos de respostas do ChatGPT relacionado 
 Primeiramente fiz uma pergunta relacionada aos conceitos URI, URL e URN, com isso reparei que ele sempre citava outros conceitos que estavam ligados, a partir dai fiz outras perguntas em cima desses conceitos citados e a pesquisa foi se ampliando. Por esse motivo, os conceitos não estão ordenados de forma cronológia de criação ou sobre temas, e sim aparecendo conforme são citadas. 
 
 ## Como você pode contribuir?
-
 - Gostaria muitos de fazer um índice cronológico e depois por tipos de assuntos, como Protocolos, Instituições, Tecnlogias de Rede, Dispositivos e entre outros.
 - Outro objetivo seria organizar essa informações conforme o índice e dividir o arquivo original em vários arquivos menores, onde cada arquivo é uma resposta e essas repostas estejam linkaveis quando os teremos forem citados em outras respostas.
 - Se você perceber que existem respostas repetidas, fique a vontade em removelas.
@@ -15,7 +14,10 @@ Primeiramente fiz uma pergunta relacionada aos conceitos URI, URL e URN, com iss
 - Sinta-se a vontade também para adicioinar novos conceitos, mesmo que eles não tenham sido citados. Podendo seguir a ideia inicial e implementar cada vez mais o documento.
 
 ## Como os arquivos foram?
-- Utilizei a ferramenta Craft para a criação e extração das informações obtidas. Você pode acessar o documento original, editar, adicionar comentário e salvar em sua conta do Craft atráves do link (https://www.craft.do/s/luzc0ETrahrZxS).
+Utilizei a ferramenta Craft para a criação e extração das informações obtidas. Você pode acessar o documento original, editar, adicionar comentário e salvar em sua conta do Craft atráves do link (https://www.craft.do/s/luzc0ETrahrZxS).
+
+## Quais seriam as próximas versões do documento?
+Minha ideia seria criar documentos parecidos tratando de uma tecnlogia específica, como Liguagens de programação por exemplo, onde em um único documento, de forma offline o usuário possa enteder e pesquisar vários conceitos e ter links dinamicos para obter informações de maneira rápida e fácil.
 
 ## Observações
 
@@ -23,5 +25,7 @@ Primeiramente fiz uma pergunta relacionada aos conceitos URI, URL e URN, com iss
 - Tente manter o mesmo padrão de formatação do documento, para ele seguir sempre o mesmo estilo.
 - Os conceitos do documentos devem estar relacionado principalmente a assuntos de tecnologia, tente não fugir desse nicho.
 - As informações não possuem fontes justamente por terem sido extraidas do chat, com isso, esse não é um documento de total credibilidade informativa, ele apenas introduz assuntos sobre as tecnlogias citadas conforme os dados que o chat compila. Para explicações mais detalhadas e com distino acadêmicos não é recomendado usar as informações desse documento de forma literal.
+- Algumas formatações podem estar quebradas, isso acontece porque fiz tudo dentro do programa craft, e ao transformar em markdown ele pode ter ficado diferente do esperado.
+- Em algumas repostas eu coloquei imagens referentes ao assunto, principalmente no logotipo de entidades e hardwares, para ampliar o conceito. Você pode seguir a mesma ideia em caso de contribuir no projeto.
 
 Agradeço desde já ajuda quem tirar um tempo para fazer esse projeto crescer!
